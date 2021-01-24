@@ -25,6 +25,11 @@ h1 {
 	position: absolute;
 }
 
+img {
+	height: 100%;
+	width: 100%;
+}
+
 .socials {
 	position: absolute;
 	height: 100px;
